@@ -6,3 +6,4 @@
   拦截器还是需要有一个的.
 - try to make a redis by Java.
 - try to make a paging component in Java.
+- 做一个爬虫，爬取某个航线的机票价格，获得最低的价格并发送邮件。
